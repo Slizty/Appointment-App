@@ -119,7 +119,7 @@ New users are introduced to the app through a series of onboarding screens that 
 - Onboarding Screen 3
 - ![Onboarding3.PNG](screenshots/Onboarding3.PNG)
 
-_[Screenshot Placeholder: Onboarding Flow]_
+
 
 ### 2. Authentication Flow
 
@@ -132,7 +132,7 @@ Secure phone number-based authentication with OTP verification ensures user secu
 - OTP Verification
 - ![VerifyOtp.PNG](screenshots/VerifyOtp.PNG)
 
-_[Screenshot Placeholder: Authentication Flow]_
+
 
 ### 3. Patient Journey
 
@@ -148,7 +148,7 @@ Patients can browse available doctors and filter by specialty.
 - ![DoctorList.PNG](screenshots/DoctorList.PNG)
 
 
-_[Screenshot Placeholder: Patient Home & Doctor Discovery]_
+
 
 #### 3.2 Appointment Booking
 
@@ -163,7 +163,7 @@ Streamlined appointment booking process with date and time selection.
 - Booking Confirmation
 -![bookConfirmation.PNG](screenshots/bookConfirmation.PNG)
 
-_[Screenshot Placeholder: Appointment Booking Flow]_
+
 
 #### 3.3 Appointment Management
 
@@ -176,7 +176,7 @@ Patients can view their upcoming appointments, reschedule, or cancel as needed.
 - Reschedule Appointment
 - ![rescheduleAppointment.PNG](screenshots/rescheduleAppointment.PNG)
 
-_[Screenshot Placeholder: Appointment Management]_
+
 
 ### 4. Doctor Journey
 
@@ -189,7 +189,7 @@ Doctors have access to a comprehensive dashboard showing their daily schedule an
 - Doctor Dashboard
 - Daily Schedule View
 
-_[Screenshot Placeholder: Doctor Dashboard]_
+
 
 #### 4.2 Appointment Management (Doctor View)
 
@@ -201,7 +201,7 @@ Doctors can manage their appointments, view patient details, and update appointm
 - Patient Information
 - Schedule Management
 
-_[Screenshot Placeholder: Doctor Appointment Management]_
+
 
 ### 5. Notification System
 
@@ -214,7 +214,7 @@ Real-time notifications keep both patients and doctors informed about appointmen
 - Schedule changes
 - Cancellation alerts
 
-_[Screenshot Placeholder: Notification Examples]_
+
 
 ## Data Models
 
